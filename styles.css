@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*h1 font size increased*/
+h1 {
+	font-size: 40px;
+}
+
+/*Changes background color of body to light peach*/
+body {	
+	background-color: #f6e4cc;
+}
+
+/*Removes underline to links and changes font family to monospace*/
+a {
+	text-decoration: none;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+/*color for head section*/
+#titleColor {
+	background-color: #f3d5bd;
+}
+
+/*color for sidemenu title*/
+#sideHead {
+	background-color: #397249;
+}
+
+#noad {
+	line-height: 30px;
+}
+
+/* div for head section*/
+.header {
+	text-align: left;
+	padding: 5px;
+}
+
+/* div for navigation section*/
+.nav {
+	line-height: 60px;
+	background-color: #c7e1ba;
+	float: left;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid navy;
+}
+
+/*Background color for menu links*/
+.menuLink {
+	background-color: #9cb770;
+}
+
+/*div for main section*/
+.section {
+	width: 650px;
+	float: left;
+	padding: 10px;
+}
+
+/* color for the subheadings in the main section*/
+.subheading {
+	background-color: #397249;
+	color: white;
+	padding-left: 5px;
+}
