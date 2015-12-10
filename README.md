@@ -15,7 +15,7 @@
   
 <h2> Author </h2>
 
-This website was created by Joshua Ya(jy2xj), a student at the University of Virginia.
+This website was created by Joshua Ya(jy2xj), a student at the University of Virginia. Feel free to contact me at jy2xj@virginia.edu
 
 <h4> Disclaimer </h4>
 Website is still Work In Progress! Also, some information was taken off of other websites.
