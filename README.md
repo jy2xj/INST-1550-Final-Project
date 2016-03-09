@@ -2,12 +2,12 @@
 
 <h2> Installation Process </h2>
 
-1. Download all of the HTML files (in the HTML folder)
-2. Download the styles.css file (Make sure both the HTML files and CSS file are in the same location!)
-3. Download all of the image files
-4. Change all of the paths in the HTML code to where it is located in your system (current code has absolute pathing)
-5. Run the index.html(homepage) file on Google Chrome.
-6. Enjoy!
+1. Download all of the HTML/CSS files (in the HTML/CSS folder)
+1b. Make sure both the HTML files and CSS file are in the same location!
+2. Download all of the image files
+3. Change all of the paths in the HTML code to where it is located in your system (current code has absolute pathing)
+4. Run the index.html(homepage) file on Google Chrome.
+5. Enjoy!
 
 <h2> Why did I make this? </h2>
 
