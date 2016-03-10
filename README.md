@@ -2,10 +2,10 @@
 
 <h2> Installation Process </h2>
 
-1. Download all of the HTML/CSS files (in the HTML/CSS folder)
-1b. Make sure both the HTML files and CSS file are in the same location!
-2. Download all of the image files
-3. Change all of the paths in the HTML code to where it is located in your system (current code has absolute pathing)
+For Mac systems (haven't tested on windows system):
+
+1. If you can clone the repository, Clone the repository using git onto your local system.
+2. If you cannot clone the repository, download all of the HTML/CSS files (in the HTML/CSS folder). Make sure both the HTML files and CSS file are in the same location! Then, download all of the image files. The files and folders should stay in the same positions relative to how it looks in github.
 4. Run the index.html(homepage) file on Google Chrome.
 5. Enjoy!
 
@@ -17,5 +17,9 @@
 
 This website was created by Joshua Ya(jy2xj), a student at the University of Virginia. Feel free to contact me at jy2xj@virginia.edu
 
+<h3> Updates </h3>
+
+03/09/2016 Added relative pathing to the images (for mac)
+
 <h4> Disclaimer </h4>
-Website is still Work In Progress! Also, some information was taken off of other websites.
+Website is still Work In Progress! Also, some information comes from other websites.
